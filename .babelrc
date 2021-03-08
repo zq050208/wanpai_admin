@@ -1,0 +1,10 @@
+{
+  "presets": [
+    "@vue/app"
+  ],
+  "ignore": [
+    "/public/ueditor",
+    "/src/static"
+  ]
+
+}
